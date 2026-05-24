@@ -1,10 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD,1D9E75&height=180&section=header&text=Syeda+Rija+Ali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+Student+%40+FAST-NUCES&descAlignY=58&descSize=16&descColor=ffffffcc" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Machine+Learning+%C2%B7+Data+Science+%C2%B7+NLP;Building+AI+that+actually+matters;Open+to+internships+%26+research+roles)](https://git.io/typing-svg)
-
-
+<img src="banner.svg" width="100%" />
 </div>
 
 ---
