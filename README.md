@@ -1,44 +1,35 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Hey%2C%20I'm%20Syeda%20Rija%20Ali%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%E2%80%A2%20AI%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20NLP&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD,1D9E75&height=180&section=header&text=Syeda+Rija+Ali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+Student+%40+FAST-NUCES&descAlignY=58&descSize=16&descColor=ffffffcc" />
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=4th+Year+CS+%40+FAST-NUCES;ML+%7C+AI+%7C+Data+Science+%7C+NLP+Engineer;Open+to+Internships+%26+Research+Roles;Building+things+at+the+intersection+of+AI+%2B+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Machine+Learning+%C2%B7+Data+Science+%C2%B7+NLP;Building+AI+that+actually+matters;Open+to+internships+%26+research+roles)](https://git.io/typing-svg)
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Srijaali?label=Followers&style=flat-square&color=8B5CF6)](https://github.com/Srijaali)
-[![Profile views](https://komarev.com/ghpvc/?username=Srijaali&color=A78BFA&style=flat-square&label=Profile+Views)](https://github.com/Srijaali)
+[![Followers](https://img.shields.io/github/followers/Srijaali?label=followers&style=flat-square&color=7F77DD&labelColor=EEEDFE)](https://github.com/Srijaali)
+[![Profile Views](https://komarev.com/ghpvc/?username=Srijaali&color=1D9E75&style=flat-square&label=profile+views)](https://github.com/Srijaali)
 
 </div>
 
 ---
 
-## `$ whoami`
+## About me
 
-```python
-syeda_rija = {
-    "name"      : "Syeda Rija Ali",
-    "university": "FAST-NUCES",
-    "year"      : "4th Year — Artificial Intelligence",
-    "focus"     : ["Machine Learning", "Data Science", "NLP", "Knowledge Systems"],
-    "looking_for": ["Internships", "Research Collaborations"],
-    "fun_fact"  : "I co-founded a fashion brand. I believe good ideas look great in both code & couture.",
-}
-```
+I build AI systems at the intersection of **real-world impact** and research — from map-free navigation for the visually impaired to explainable mental health reasoning engines. Currently wrapping up my final year in **Artificial Intelligence** at FAST-NUCES.
 
-I build AI systems that sit at the intersection of **real-world impact** and cutting-edge research — from navigation tools for the visually impaired to ontology-driven mental health systems. I care deeply about explainability, elegant architecture, and shipping things that actually matter.
+Outside of AI, I co-founded **RUI** — a minimalist fashion brand. I think good design, whether in models or clothes, comes down to the same thing: knowing what to leave out.
+
+- 🎓 &nbsp;4th year AI student @ FAST-NUCES
+- 🔍 &nbsp;Interests: ML · NLP · Knowledge Systems · Data Science
+- 📬 &nbsp;Open to internships and research collaborations
 
 ---
 
-## 🧠 Tech Stack
+## Tech stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-e38c00?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-e34c26?style=flat-square&logo=html5&logoColor=white)
 
@@ -51,11 +42,12 @@ I build AI systems that sit at the intersection of **real-world impact** and cut
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Techniques:** RAG · Prompt Engineering · Semantic Search · SPARQL/OWL Knowledge Graphs · Embeddings
+`RAG` &nbsp; `Prompt Engineering` &nbsp; `Semantic Search` &nbsp; `SPARQL / OWL` &nbsp; `Embeddings` &nbsp; `YOLO`
 
-**Infra & Tools**
+**Infra & tools**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -65,78 +57,46 @@ I build AI systems that sit at the intersection of **real-world impact** and cut
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-<details>
-<summary><b>🦯 Vision-to-Voice — Navigation System for the Visually Impaired</b> &nbsp;|&nbsp; <i>Feb 2026 – Apr 2026</i></summary>
+**🦯 Vision-to-Voice — Navigation for the Visually Impaired** &nbsp;`Feb 2026 – Apr 2026`
 
-<br/>
+Map-free navigation system using real-time scene understanding. Integrated DINOv3 embeddings, YOLOE detection, and JEPA-based world modeling. Explainable voice guidance via SmoothGrad & AttnLRP.
 
-> Map-free navigation system powered by real-time scene understanding for visually impaired users.
-
-- Integrated **DINOv3 embeddings**, **YOLOE** object detection, and **EasyOCR** for semantic perception & landmark recognition
-- Built a cognitive environment model using **JEPA-based world modeling** for predictive spatial reasoning
-- Implemented real-time voice guidance with **SmoothGrad & AttnLRP** explainability techniques
-
-**Stack:** `PyTorch` `DINOv3` `JEPA` `YOLOE` `EasyOCR` `OpenCV` `NetworkX`
-
-</details>
-
-<details>
-<summary><b>👗 LAYR — ML-based Fashion E-commerce System</b> &nbsp;|&nbsp; <i>Aug 2025 – Dec 2025</i></summary>
-
-<br/>
-
-> End-to-end ML pipeline processing 80M+ records (5.2GB) of transactional and behavioral data.
-
-- Hybrid recommendation engine: **collaborative filtering** + **content-based similarity** + popularity signals
-- **Sentence-BERT** NLP for sentiment and thematic signal extraction from reviews
-- **Prophet & ARIMA** demand forecasting for seasonal trends & inventory risk
-- RFM-based customer segmentation and behavioral funnel analysis
-
-**Stack:** `Python` `PyTorch` `scikit-learn` `Sentence-BERT` `Prophet` `PostgreSQL` `FastAPI` `MLflow`
-
-</details>
-
-<details>
-<summary><b>🧠 Companion — Mental Health KRR System</b></summary>
-
-<br/>
-
-> Ontology-driven Knowledge Representation & Reasoning for explainable mental health risk awareness.
-
-- Uses **OWL, RDF, SWRL, SPARQL** to reason over emotions and symptoms extracted from text
-- Generates transparent causal "why" explanations for risk assessments
-
-**Stack:** `OWL` `RDF` `SWRL` `SPARQL` `Python`
-
-</details>
-
-<details>
-<summary><b>⚡ Prodigy — AI Productivity Companion</b> &nbsp;|&nbsp; <i>Team Lead, Feb 2024 – Jun 2024</i></summary>
-
-<br/>
-
-> Full-stack productivity platform with AI-driven insights. Led the team end-to-end.
-
-- **GPT-4** powered session-based note summarization & productivity insights
-- Real-time reminders, calendar sync, focus tracking with **Firebase** backend
-- Pomodoro workflows + analytics dashboard
-
-**Stack:** `React` `TypeScript` `Tailwind CSS` `Firebase` `Firestore` `OpenAI GPT-4`
-
-</details>
+`PyTorch` `DINOv3` `YOLOE` `EasyOCR` `OpenCV` `NetworkX`
 
 ---
 
-## 📊 GitHub Stats
+**👗 LAYR — ML-based Fashion E-commerce** &nbsp;`Aug 2025 – Dec 2025`
+
+End-to-end ML pipeline on 80M+ records (5.2GB). Hybrid recommendation engine, Sentence-BERT sentiment analysis, Prophet/ARIMA demand forecasting, and RFM customer segmentation.
+
+`scikit-learn` `Sentence-BERT` `Prophet` `FastAPI` `PostgreSQL` `MLflow`
+
+---
+
+**🧠 Companion — Mental Health KRR System**
+
+Ontology-driven knowledge representation for explainable mental health risk awareness. Uses OWL, RDF, SWRL, and SPARQL to reason over emotions and generate transparent causal explanations.
+
+`OWL` `RDF` `SWRL` `SPARQL` `Python`
+
+---
+
+**⚡ Prodigy — AI Productivity Companion** &nbsp;`Team Lead · Feb 2024 – Jun 2024`
+
+Full-stack productivity platform with GPT-4 note summarization, Pomodoro workflows, calendar sync, and focus analytics.
+
+`React` `TypeScript` `Tailwind CSS` `Firebase` `OpenAI GPT-4`
+
+---
+
+## GitHub stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Srijaali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijaali&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Srijaali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijaali&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Srijaali&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -144,18 +104,20 @@ I build AI systems that sit at the intersection of **real-world impact** and cut
 
 ---
 
-## 🤝 Let's Connect
+## Experience
 
-<div align="center">
+**Project Management Intern — AI Systems** &nbsp;·&nbsp; SysLab.ai &nbsp;`Nov 2025 – Feb 2026`
+Coordinated AI-based assessment and proctoring platforms. Bridge between technical and non-technical teams across planning, QA, and release.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/syedarijaali)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rijaali287@gmail.com)
+**Co-Founder — RUI** &nbsp;`Aug 2025 – Present`
+Minimalist fashion brand. Led brand strategy, concept development, and product direction.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srijaali)
 
-<br/>
-
-*"Build things that matter. Keep learning. Ship boldly."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD,1D9E75&height=100&section=footer" />
