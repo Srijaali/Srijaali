@@ -21,7 +21,7 @@
 syeda_rija = {
     "name"      : "Syeda Rija Ali",
     "university": "FAST-NUCES",
-    "year"      : "4th Year — Computer Science",
+    "year"      : "4th Year — Artificial Intelligence",
     "focus"     : ["Machine Learning", "Data Science", "NLP", "Knowledge Systems"],
     "looking_for": ["Internships", "Research Collaborations"],
     "fun_fact"  : "I co-founded a fashion brand. I believe good ideas look great in both code & couture.",
