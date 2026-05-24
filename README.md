@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Machine+Learning+%C2%B7+Data+Science+%C2%B7+NLP;Building+AI+that+actually+matters;Open+to+internships+%26+research+roles)](https://git.io/typing-svg)
 
-[![Followers](https://img.shields.io/github/followers/Srijaali?label=followers&style=flat-square&color=7F77DD&labelColor=EEEDFE)](https://github.com/Srijaali)
-[![Profile Views](https://komarev.com/ghpvc/?username=Srijaali&color=1D9E75&style=flat-square&label=profile+views)](https://github.com/Srijaali)
 
 </div>
 
