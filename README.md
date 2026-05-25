@@ -130,10 +130,10 @@ GPT-4 note summarization, Pomodoro workflows, calendar sync, and focus analytics
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Srijaali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijaali&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Srijaali&show_icons=true&count_private=true&include_all_commits=true&bg_color=0a0a0a&title_color=f8f4f0&text_color=c5b8b0&icon_color=c9847a&hide_border=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijaali&layout=compact&langs_count=6&bg_color=0a0a0a&title_color=f8f4f0&text_color=c5b8b0&icon_color=c9847a&hide_border=true" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Srijaali&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Srijaali&theme=dark&background=0a0a0a&ring=c9847a&fire=c9847a&currStreakNum=f8f4f0&sideNums=c5b8b0&sideLabels=c5b8b0&dates=7a6560&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
