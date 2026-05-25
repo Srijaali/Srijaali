@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f6a3d7c6-3e1b-4f48-a55e-9bcef0b06409" width="860" alt="banner"/>
+
+<!-- NEURAL NETWORK BANNER (GIF — GitHub-safe) -->
+<img src="https://github.com/user-attachments/assets/f6a3d7c6-3e1b-4f48-a55e-9bcef0b06409" width="860" alt="banner"/>
+
 </div>
 
 ---
