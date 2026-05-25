@@ -305,33 +305,6 @@ Knowledge representation for explainable mental health risk awareness. OWL, RDF,
 </td>
 <td width="50%" valign="top">
 
-### 🪞 LifeMirror — AI Perception Engine
-**Multi-Agent Appearance Analysis** &nbsp;`Mar 2025 – Ongoing`
-
-Multi-agent AI with YOLO vision models, LangGraph orchestration, pgVector semantic search, MinIO storage, Celery async processing.
-
-`FastAPI` `LangChain` `YOLO` `pgVector` `Redis` `MinIO`
-
-[![View](https://img.shields.io/badge/View_Project-c9847a?style=flat-square)](https://github.com/Srijaali)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Data Analytics Portfolio
-**Business Intelligence & EDA**
-
-Exploratory data analysis, statistical modeling, data visualization, business intelligence, and data storytelling projects.
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `PowerBI` `Excel`
-
-[![View](https://img.shields.io/badge/View_Project-c9847a?style=flat-square)](https://github.com/Srijaali)
-
-</td>
-<td width="50%" valign="top">
-
 ### ⚡ Prodigy — AI Productivity Tool
 **Full-Stack Platform** &nbsp;`Team Lead · Feb – Jun 2024`
 
