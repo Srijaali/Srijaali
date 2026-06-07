@@ -28,7 +28,6 @@ Outside of AI, I co-founded **RUI** — a minimalist fashion brand. I think good
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-e34c26?style=flat-square&logo=html5&logoColor=white)
 
 **AI / ML**
@@ -68,7 +67,7 @@ Map-free navigation using real-time scene understanding. Integrated DINOv3 embed
 
 `PyTorch` `DINOv3` `YOLOE` `EasyOCR` `NetworkX`
 
-[![View](https://img.shields.io/badge/View_Project-c9847a?style=flat-square)](https://github.com/Srijaali/Vision-to-Voice)
+[![View](https://img.shields.io/badge/View_Project-c9847a?style=flat-square)](https://github.com/rayyan-merchant/Vision-to-Voice)
 
 </td>
 <td width="50%" valign="top">
@@ -95,7 +94,7 @@ Knowledge representation for explainable mental health risk awareness. OWL, RDF,
 
 `OWL` `RDF` `SWRL` `SPARQL` `FastAPI` `React`
 
-[![View](https://img.shields.io/badge/View_Project-c9847a?style=flat-square)](https://github.com/Srijaali)
+[![View](https://img.shields.io/badge/View_Project-c9847a?style=flat-square)](https://github.com/rayyan-merchant/Companion-MentalHealth)
 
 </td>
 <td width="50%" valign="top">
@@ -107,7 +106,7 @@ GPT-4 note summarization, Pomodoro workflows, calendar sync, and focus analytics
 
 `React` `TypeScript` `Tailwind CSS` `Firebase` `OpenAI GPT-4`
 
-[![View](https://img.shields.io/badge/View_Project-c9847a?style=flat-square)](https://github.com/Srijaali)
+[![View](https://img.shields.io/badge/View_Project-c9847a?style=flat-square)](https://github.com/rayyan-merchant/Prodigy-Productivity-Tool)
 
 </td>
 </tr>
