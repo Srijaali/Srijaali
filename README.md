@@ -141,9 +141,9 @@ GPT-4 note summarization, Pomodoro workflows, calendar sync, and focus analytics
 
 <div align="center">
 
-[![View Resume](https://img.shields.io/badge/View_Resume-c9847a?style=for-the-badge&logo=readme&logoColor=white)](YOUR_RESUME_LINK)
+[![View Resume](https://img.shields.io/badge/View_Resume-c9847a?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Srijaali/Srijaali/blob/main/resume/Syeda%20Rija%20Ali-CV-.pdf)
 &nbsp;
-[![Download PDF](https://img.shields.io/badge/Download_PDF-1a0d0e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_PDF_LINK)
+[![Download PDF](https://img.shields.io/badge/Download_PDF-1a0d0e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Srijaali/Srijaali/blob/main/resume/Syeda%20Rija%20Ali-CV-.pdf)
 
 </div>
 
